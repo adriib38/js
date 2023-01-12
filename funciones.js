@@ -7,8 +7,6 @@ console.log('Suma: ' + suma(3, 4));
 
 
 
-
-
 //Funciones flecha
 const restar = function(num1, num2){
     return num1 - num2;
@@ -17,12 +15,8 @@ console.log('Resta: ' + restar(4, 2));
 
 
 
-
-
 const saludar = nombre => console.log('Hola, ' + nombre);
 saludar('Adrian');
-
-
 
 
 
@@ -30,8 +24,6 @@ const saludar2 = nombre => {
     return 'Hola, ' + nombre;
 }
 console.log(saludar2('Juan'));
-
-
 
 
 
