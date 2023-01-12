@@ -1,5 +1,6 @@
 /**
  * 
+ * 
  * METODOS
  * - sqrt() - Devuelve la raiz cuadrada positiva de un número.
  * - cbrt() - Devuelve la raiz cúbica de un número.
@@ -10,6 +11,7 @@
  * - fround() - Devuelve la representación flotante de precisión simple más cercana de un número.
  * - floor() - Devuelve el mayor entero menor que o igual a un número.
  * - trunc() - Devuelve la parte entera del número x, la eliminación de los digitos fraccionarios.
+ * 
  * 
  */
 
