@@ -95,8 +95,6 @@ obtenerInstagram(2).then((instagram)=>{
     console.log(e);
 });
 
-
-
 /**
  *
  * Otro ejemplo
