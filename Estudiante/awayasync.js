@@ -27,7 +27,6 @@ const mostrarResultado = async ()=>{
 
 mostrarResultado();
 
-
 /**
  * 
  * Otro ejemplo
