@@ -2,32 +2,6 @@
  * 
  * Objeto window.
  * 
-<<<<<<< HEAD
- * alert(): Muestra un cuadro de diálogo con un mensaje y un botón "OK".
- * prompt(): Muestra un cuadro de diálogo con un mensaje y un campo de entrada para el usuario.
- * confirm(): Muestra un cuadro de diálogo con un mensaje y dos botones "OK" y "Cancelar".
- * 
- * open(): Abre una nueva ventana o pestaña con una URL específica.
- * close(): Cierra la ventana actual.
- * closed: Indica si la ventana está cerrada.
- * 
- * moveTo(): Mueve la ventana actual a una posición específica en la pantalla.
- * resizeTo(): Cambia el tamaño de la ventana actual a un tamaño específico.
- * resizeBy(): Cambia el tamaño de la ventanaactual en una cantidad específica.
- * scrollTo(): Desplaza la ventana actual a una posición específica en la página.
- * 
- * setTimeout(): Ejecuta una función después de un tiempo específico.
- * clearTimeout(): Cancela la ejecución de una función programada con setTimeout().
- * setInterval(): Ejecuta una función varias veces con un intervalo de tiempo específico.
- * clearInterval(): Cancela la ejecución de una función programada con setInterval().
- * 
- * minimize(): minimiza la ventana.
- *   
- * 
- * location: Proporciona información sobre la URL actual y permite redirigir a otra página.
- * history: Proporciona acceso al historial de navegación del usuario y permite navegar hacia adelante y hacia atrás.
- * navigator: Proporciona información sobre el navegador y el dispositivo del usuario.
-=======
  *  alert(): Muestra un cuadro de diálogo con un mensaje y un botón "OK".
  *  prompt(): Muestra un cuadro de diálogo con un mensaje y un campo de entrada para el usuario.
  *  confirm(): Muestra un cuadro de diálogo con un mensaje y dos botones "OK" y "Cancelar".
@@ -48,7 +22,6 @@
  *  location: Proporciona información sobre la URL actual y permite redirigir a otra página.
  *  history: Proporciona acceso al historial de navegación del usuario y permite navegar hacia adelante y hacia atrás.
  *  navigator: Proporciona información sobre el navegador y el dispositivo del usuario.
->>>>>>> b76fc81dcb42863180e38ffbac1c60c726e1e970
  *  
  * 
  * 
@@ -56,7 +29,7 @@
  * 
  */
 
-<<<<<<< HEAD
+
 
 /**
  * 
@@ -64,8 +37,7 @@
 //Confirm devuelve true o false
 let salir = confirm('¿Seguro que quieres salir?');
 
-=======
->>>>>>> b76fc81dcb42863180e38ffbac1c60c726e1e970
+
 /**
  * Abrir ventana
  */
@@ -111,11 +83,8 @@ document.write('<br>');
 document.write(window.location.protocol);
 document.write('<br>');
 
-<<<<<<< HEAD
 /**
  * Resize
  */
 //ventana = window.open("https://youtube.com");
 //window.resizeTo(100, 200);
-=======
->>>>>>> b76fc81dcb42863180e38ffbac1c60c726e1e970
