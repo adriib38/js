@@ -1,0 +1,19 @@
+.caja {
+    background: #f00;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+span {
+    margin: auto;
+}
+
+.responsive-caja {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    background: blue;
+    text-align: center;
+    
+}

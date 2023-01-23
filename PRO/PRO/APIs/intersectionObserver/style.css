@@ -1,0 +1,35 @@
+body {
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.caja {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    background-color: rgb(104, 104, 246);
+    margin: 20px auto;
+    color: aliceblue;
+    font-size: 26px;
+    border: 4px dashed blue;
+}
+
+.caja span {
+    margin: auto;
+}
+
+.caja:nth-child(2) {
+    background: #e48;
+    border: 4px dashed #824;
+}
+
+.caja:nth-child(3) {
+    background: #4e8;
+    border: 4px dashed #284;
+}
+
+.caja:nth-child(4) {
+    background: #777;
+    border: 4px dashed #444;
+}
